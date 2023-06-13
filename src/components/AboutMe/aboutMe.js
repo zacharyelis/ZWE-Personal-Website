@@ -33,12 +33,8 @@ export default function aboutMe() {
             <br></br>
             I started at Georgia Tech as a chemical engineer, but after a single MATLAB course, I knew I had 
             found my passion. I officially changed my major at the end of my freshman year, and have only 
-            fallen more in love with software engineering since.
-            <br></br>
-            <br></br>
-            Outside of school and work, I'm a passionate fisherman and scuba diver. I love to travel and being in 
-            the outdoors, and I'm always looking for somewhere new to visit. I made this website to showcase some 
-            of my work and interests; I really hope you enjoy!
+            fallen more in love with software engineering since. I made this website to showcase some 
+            of my work and interests; I hope you enjoy!
           </div>
         </div>
     );

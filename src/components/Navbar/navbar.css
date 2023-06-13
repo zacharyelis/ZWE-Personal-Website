@@ -11,17 +11,17 @@
 }
 
 .nav-logo {
-height: 70px;
-width: 120px;
+height: 65px;
+width: 110px;
 border-radius: 10px;
 }
 
 .nav-name {
     margin-top: auto;
     margin-bottom: auto;
-    margin-left: 15px;
+    margin-left: 20px;
     color: rgb(65, 64, 64);
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 500;
 }
 
@@ -41,7 +41,7 @@ border-radius: 10px;
     font-weight: 500px;
 }
 
-@media screen and (max-width: 860px) {
+@media screen and (max-width: 900px) {
     .nav-links {
         display: none;
     }
