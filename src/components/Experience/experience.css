@@ -70,4 +70,9 @@
         margin-right: 0px;
         align-self: center;
     }
+
+    .experience-description {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
 }
