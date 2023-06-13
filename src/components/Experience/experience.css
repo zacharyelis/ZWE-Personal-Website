@@ -71,8 +71,8 @@
         align-self: center;
     }
 
-    .experience-description {
-        margin-left: 5px;
-        margin-right: 5px;
+    .experience-area {
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
