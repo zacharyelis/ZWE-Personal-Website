@@ -1,7 +1,9 @@
+import Navbar from "./components/Navbar/navbar"
+
 export default function App() {
   return (
     <div className="App">
-      App should be clear
+      <Navbar />
     </div>
   );
 }
