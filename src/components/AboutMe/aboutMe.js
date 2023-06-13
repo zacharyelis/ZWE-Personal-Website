@@ -8,7 +8,7 @@ export default function aboutMe() {
             <div className="d-flex picture-area">
                 <img src={ProfilePhoto} className="profile-photo" alt="Zachary's Profile Pic"/>
             </div>
-            <div className="d-flex about-me-header">Hi, I'm Zach!</div>
+            <div className="d-flex about-me-header">Hi, I'm Zachary!</div>
             <div className="d-flex type-area">
                 <Typewriter
                 options={{
