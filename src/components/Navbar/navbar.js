@@ -10,7 +10,7 @@ export default function navbar() {
             </div>
             <ul className= "nav-links">
                 <li>
-                    <a className="nav-text">About Me</a>
+                    <a href="#aboutMe" className="nav-text">About Me</a>
                 </li>
                 <li>
                     <a className="nav-text">Experience</a>
