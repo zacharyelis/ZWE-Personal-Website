@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# This is a personal portfolio website I built using React.js, Bootstrap, Git, HTML, CSS, and JavaScript to showcase some of my work and interests. You can view it at [zacharyelis.com](https://www.zacharyelis.com/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
