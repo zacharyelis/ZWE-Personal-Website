@@ -67,6 +67,11 @@
     }
 
     .about-me-body {
-        font-size: 16px;
+        font-size: 18px;
+    }
+
+    .about-me-header {
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
