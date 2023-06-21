@@ -19,10 +19,10 @@ export default function navbar() {
                     <a href="#projects" className="nav-text">Projects</a>
                 </li>
                 <li>
-                    <a href="#experience" className="nav-text">Contact</a>
+                    <a href="#projects" className="nav-text">Contact</a>
                 </li>
                 <li>
-                    <a href="#experience" className="nav-text">Resume</a>
+                    <a href="#projects" className="nav-text">Resume</a>
                 </li>
             </ul>
         </div>

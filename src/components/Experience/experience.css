@@ -1,6 +1,7 @@
 .experience-area {
-    padding-top: 75px;
-    padding-bottom: 30px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .experience-heading {
@@ -24,7 +25,7 @@
     margin-bottom: 10px;
     margin-left: 10px;
     border-radius: 30px;
-    box-shadow: 1px 1px 25px rgb(63, 62, 62);
+    box-shadow: 1px 1px 20px rgb(63, 62, 62);
 }
 
 .experience-title {
@@ -77,11 +78,7 @@
         margin-bottom: 20px;
     }
 
-    .experience-area {
-        padding-left: 30px;
-        padding-right: 30px;
-        padding-top: 50px;
-    }
+    
 
     .experience-heading {
         font-size: 35px;

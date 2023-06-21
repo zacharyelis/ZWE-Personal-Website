@@ -1,7 +1,12 @@
 .projects-area {
     padding-top: 75px;
-    padding-bottom: 30px;
-    background-color: #0d6efd;
+    background-color: #0d5cd2;
+}
+
+.project-list {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .projects-header {
@@ -11,4 +16,26 @@
     margin-bottom: 30px;
     text-decoration: underline;
     color: aliceblue;
+}
+
+.project-box {
+    background-color: white;
+    min-height: 300px;
+    min-width: 600px;
+    margin-bottom: 50px;
+    box-shadow: 1px 1px 25px rgb(63, 62, 62);
+    border-radius: 30px;
+}
+
+@media screen and (max-width: 900px) {
+    .projects-header {
+        font-size: 35px;
+    }
+
+    .projects-area {
+        padding-top: 50px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
 }
