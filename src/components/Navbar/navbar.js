@@ -16,7 +16,7 @@ export default function navbar() {
                     <a href="#experience" className="nav-text">Experience</a>
                 </li>
                 <li>
-                    <a href="#experience" className="nav-text">Projects</a>
+                    <a href="#projects" className="nav-text">Projects</a>
                 </li>
                 <li>
                     <a href="#experience" className="nav-text">Contact</a>
