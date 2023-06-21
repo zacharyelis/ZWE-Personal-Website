@@ -53,4 +53,20 @@
         padding-top: 50px;
         padding-bottom: 20px;
     }
+
+    .profile-photo {
+        width: 200px;
+    }
+
+    .about-me-header {
+        font-size: 60px;
+    }
+
+    .type-area {
+        font-size: 30px;
+    }
+
+    .about-me-body {
+        font-size: 16px;
+    }
 }
