@@ -20,11 +20,35 @@
 
 .project-box {
     background-color: white;
-    min-height: 300px;
-    min-width: 600px;
     margin-bottom: 50px;
     box-shadow: 1px 1px 25px rgb(63, 62, 62);
     border-radius: 30px;
+}
+
+.project-photo{
+    width: 300px;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.project-text-area {
+    flex-direction: column;
+    align-items: center;
+}
+
+.project-title {
+    font-size: 30px;
+    text-align: center;
+    width: 500px;
+}
+
+.project-description {
+    font-size: 18px;
+    text-align: justify;
+    width: 500px;
+    padding: 20px;
 }
 
 @media screen and (max-width: 900px) {
@@ -36,6 +60,7 @@
         padding-top: 50px;
         padding-left: 30px;
         padding-right: 30px;
+        display: none;
     }
     
 }
