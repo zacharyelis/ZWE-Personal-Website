@@ -46,9 +46,9 @@
 
 .project-description {
     font-size: 18px;
-    text-align: justify;
     width: 500px;
     padding: 20px;
+    text-align: center;
 }
 
 @media screen and (max-width: 900px) {
@@ -60,7 +60,11 @@
         padding-top: 50px;
         padding-left: 30px;
         padding-right: 30px;
-        display: none;
+    }
+
+    .project-box {
+        flex-direction: column;
+        align-items: center;
     }
     
 }

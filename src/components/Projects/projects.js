@@ -20,7 +20,8 @@ export default function projects() {
                     <img src = {GameScreenshot} className="project-photo" alt="Pong game screenshot"/>
                     <div className="d-flex project-text-area">
                         <div className="project-title">Pong-Style Video Game</div>
-                        <div className="project-description">Here is some text</div>
+                        <div className="project-description">Interactive graphical application run on a Game Boy Advance 
+                        emulator. Program was created using C and run in a Docker container.</div>
                     </div>
                 </div>
            </div>
