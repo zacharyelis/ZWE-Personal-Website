@@ -1,20 +1,37 @@
 import "./experience.css";
-import GigsurfLogo from "./GigsurfLogo.jpg";
+import RunwayLogo from "./RunwayLogo.jpg";
 import GTCoCLogo from "./GTCoCLogo.jpg";
 import FraternityLogo from "./FraternityLogo.png";
 import SidechatLogo from "./SidechatLogo.jpg";
+import GTRILogo from "./GTRILogo.jpg";
 
 export default function experience() {
     return(
         <div className="experience-area" id="experience">
             <div className="d-flex experience-heading">Experience</div>
             <div className="d-flex experience-item">
-                <a href="https://gigsurf.io/" target="_blank" rel="noopener noreferrer">
-                    <img src = {GigsurfLogo} className="experience-photo" alt="Gigsurf Logo"/>
+                <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">
+                    <img src={GTRILogo} className="experience-photo" alt="GT CoC Logo" />
                 </a>
                 <div className="experience-info">
-                    <div className="experience-title">Gigsurf- <span className="job-title">SWE Intern</span></div>
-                    <div className="experience-date">May 2023 - Present</div>
+                    <div className="experience-title">Georgia Tech Research Institute- <span className="job-title">Software Engineering Intern</span></div>
+                    <div className="experience-date">December 2022 - Present</div>
+                    <div className="experience-description">
+                        - Collaborate with 4 professors and 31 TAs to serve a course consisting of over 850 students
+                        <br></br>
+                        - Tutor students in computer science concepts, create and grade homework assignments and exams
+                        <br></br>
+                        - Plan and lead a weekly recitation of 50 students to foster a deeper understanding of the course
+                    </div>
+                </div>
+            </div>
+            <div className="d-flex experience-item">
+                <a href="https://www.joinrunway.io/" target="_blank" rel="noopener noreferrer">
+                    <img src = {RunwayLogo} className="experience-photo" alt="Gigsurf Logo"/>
+                </a>
+                <div className="experience-info">
+                    <div className="experience-title">Runway- <span className="job-title">Software Engineering Intern</span></div>
+                    <div className="experience-date">August 2023 - Present</div>
                     <div className="experience-description">
         
                         - Help develop and improve full stack website that utilizes Java Spring Boot, React.js, and AWS S3/DynamoDB/EC2
