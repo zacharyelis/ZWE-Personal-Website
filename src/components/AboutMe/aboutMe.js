@@ -14,7 +14,7 @@ export default function aboutMe() {
                 options={{
                 strings: [
                     "Georgia Tech Student", 
-                    "Discrete Math CS TA",
+                    "Computer Science Teaching Assistant",
                     "Software Engineer",
                 ],
                 autoStart: true,
@@ -27,14 +27,13 @@ export default function aboutMe() {
           </div>
           <div className="d-flex about-me-body">
             I'm Zachary Elis, a Georgia Tech student from Raleigh, North Carolina. I'm a junior CS major, 
-            and I'm currently on track to graduate early in December of 2024. I've worked in industry as a 
-            software engineer and at GT's College of Computing as a teaching assistant.
+            and I'm currently on track to graduate in May of 2025. I've worked in industry at two different companies 
+            as a software engineer and at GT's College of Computing as a teaching assistant.
             <br></br>
             <br></br>
             I started at Georgia Tech as a chemical engineer, but after a single MATLAB course, I knew I had 
             found my passion. I officially changed my major at the end of my freshman year, and have only 
-            fallen more in love with software engineering since. I made this website to showcase some 
-            of my work and interests; I hope you enjoy!
+            fallen more in love with the field since. I made this website to showcase some of my work and interests; I hope you enjoy!
           </div>
         </div>
     );

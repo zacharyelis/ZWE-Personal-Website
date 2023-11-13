@@ -10,30 +10,25 @@ export default function experience() {
         <div className="experience-area" id="experience">
             <div className="d-flex experience-heading">Experience</div>
             <div className="d-flex experience-item">
-                <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">
-                    <img src={GTRILogo} className="experience-photo" alt="GT CoC Logo" />
+                <a href="https://gtri.gatech.edu/" target="_blank" rel="noopener noreferrer">
+                    <img src={GTRILogo} className="experience-photo" alt="GTRI Logo" />
                 </a>
                 <div className="experience-info">
                     <div className="experience-title">Georgia Tech Research Institute- <span className="job-title">Software Engineering Intern</span></div>
-                    <div className="experience-date">December 2022 - Present</div>
+                    <div className="experience-date">August 2023 - Present</div>
                     <div className="experience-description">
-                        - Collaborate with 4 professors and 31 TAs to serve a course consisting of over 850 students
-                        <br></br>
-                        - Tutor students in computer science concepts, create and grade homework assignments and exams
-                        <br></br>
-                        - Plan and lead a weekly recitation of 50 students to foster a deeper understanding of the course
+                        - Member of the Systems Development Division of GTRI's Aerospace, Transportation, and Advanced Systems Laboratory (ATAS)
                     </div>
                 </div>
             </div>
             <div className="d-flex experience-item">
                 <a href="https://www.joinrunway.io/" target="_blank" rel="noopener noreferrer">
-                    <img src = {RunwayLogo} className="experience-photo" alt="Gigsurf Logo"/>
+                    <img src = {RunwayLogo} className="experience-photo" alt="Runway Logo"/>
                 </a>
                 <div className="experience-info">
                     <div className="experience-title">Runway- <span className="job-title">Software Engineering Intern</span></div>
-                    <div className="experience-date">August 2023 - Present</div>
+                    <div className="experience-date">May 2023 - August 2023</div>
                     <div className="experience-description">
-        
                         - Help develop and improve full stack website that utilizes Java Spring Boot, React.js, and AWS S3/DynamoDB/EC2
                         <br></br>
                         - Coordinate with UI/UX designers utilizing Figma to create friendly interfaces and intuitive interactions
@@ -48,13 +43,13 @@ export default function experience() {
                 </a>
                 <div className="experience-info">
                     <div className="experience-title">Georgia Tech- <span className="job-title">Teaching Assistant</span></div>
-                    <div className="experience-date">December 2022 - Present</div>
+                    <div className="experience-date">December 2022 - May 2023</div>
                     <div className="experience-description">
-                        - Collaborate with 4 professors and 31 TAs to serve a course consisting of over 850 students
+                        - Collaborated with 4 professors and 31 TAs to serve a course consisting of over 850 students
                         <br></br>
-                        - Tutor students in computer science concepts, create and grade homework assignments and exams
+                        - Tutored students in computer science concepts, created and graded homework assignments and exams
                         <br></br>
-                        - Plan and lead a weekly recitation of 50 students to foster a deeper understanding of the course
+                        - Planned and led a weekly recitation of 50 students to foster a deeper understanding of the course
                     </div>
                 </div>
             </div>
@@ -65,9 +60,11 @@ export default function experience() {
                     <div className="experience-title">Fraternity Executive Council- <span className="job-title">Chapter Marshal</span></div>
                     <div className="experience-date">November 2021 - Present</div>
                     <div className="experience-description">
-                    - Member of a 9-member council to manage a fraternity of 80 active members
+                    - Member of a 9-member council to manage a fraternity of over 80 active members
                     <br></br>
                     - Meet weekly to collaborate with the council in conducting the business of the chapter
+                    <br></br>
+                    - Coordinate and lead chapter special events on a monthly basis
                     </div>
                 </div>
             </div>
