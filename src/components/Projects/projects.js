@@ -1,6 +1,5 @@
 import "./projects.css";
 import WebsiteScreenshot from "./WebsiteScreenshot.png";
-import GameScreenshot from "./GameScreenshot.png";
 
 export default function projects() {
     return(
