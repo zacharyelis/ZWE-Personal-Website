@@ -18,9 +18,13 @@ export default function experience() {
                     <div className="experience-date">August 2023 - Present</div>
                     <div className="experience-description">
                         - Member of the Systems Development Division of GTRI's Aerospace, Transportation, and Advanced Systems Laboratory (ATAS)
+                        <br></br>
                         - Utilize a Model-View-ViewModel software design pattern to fully integrate numerous software modules layered on top of one another through a dependency injection framework using C#, XAML, .NET, and WPF
+                        <br></br>
                         - Collaboratively develop NuGet libraries to allow the reuse of code throughout multiple projects in ATAS
+                        <br></br>
                         - Ensure robustness and accuracy of code through test-driven development following the MSTest framework
+                        <br></br>
                         - Implement networking practices to allow sending and receiving of data between simulators using unicast, broadcast, and multicast communication types- including UDP and TCP transmission protocols
                     </div>
                 </div>
