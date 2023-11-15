@@ -20,7 +20,7 @@ export default function aboutMe() {
                 autoStart: true,
                 loop: true,
                 delay: 90,
-                deleteSpeed: 50,
+                deleteSpeed: 70,
                 pauseFor: 800,
                 }}
             />
