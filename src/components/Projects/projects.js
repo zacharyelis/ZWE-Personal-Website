@@ -15,7 +15,7 @@ export default function projects() {
                         information, display my experience, and show off some web development skills. I used 
                             React.js, Bootstrap, CSS, HTML, and JavaScript.</div>
                         <a href="https://github.com/zacharyelis/zwe-personal-website" target="_blank" rel="noopener noreferrer">
-                            <FaGithub size={30} />
+                            <FaGithub size={30} className="github-logo" />
                         </a>
                     </div>
                 </div>
