@@ -1,4 +1,35 @@
 .contact-area {
     padding-top: 75px;
-    background-color: #0d5cd2;
+    padding-bottom: 75px;
+    background-color: #5266c2;
+}
+
+.contact-header {
+    font-size: 40px;
+    font-weight: 600;
+    justify-content: center;
+    margin-bottom: 30px;
+    color: aliceblue;
+}
+
+.contact-body {
+    font-size: 30px;
+    font-weight: 400;
+    justify-content: center;
+    color: aliceblue;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.email-button {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: #5266c2;
+    border: 2px solid #5266c2;
+    border-radius: 5px;
 }

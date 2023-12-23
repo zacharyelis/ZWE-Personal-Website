@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\public",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\AboutMe",
+    "\\src\\components\\Experience",
     "\\src\\components\\Projects"
   ],
+  "SelectedNode": "\\src\\components\\Experience\\experience.js",
   "PreviewInSolutionExplorer": false
 }
