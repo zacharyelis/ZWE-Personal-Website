@@ -22,7 +22,7 @@
     text-align: center;
 }
 
-.email-button {
+.contact-buttons {
     font-size: 20px;
     font-weight: 600;
     padding: 10px 20px;
@@ -32,6 +32,8 @@
     color: #5266c2;
     border: 2px solid #5266c2;
     border-radius: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
 @media screen and (max-width: 900px) {

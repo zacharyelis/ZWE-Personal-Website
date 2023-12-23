@@ -6,14 +6,21 @@ export default function contact() {
         window.location.href = 'mailto:zelis3@gatech.edu';
     }
 
+    const handleResumeClick = () => {
+        window.location.href = 'resume.pdf';
+    }
+
     return (
         <div className="contact-area" id="contact">
             <div className="d-flex contact-header">Contact Me!</div>
             <div className="d-flex contact-body">Whether you'd like to discuss work opportunities, collaboraltion on a project, or anything
                 else, feel free to reach out!</div>
             <div className="d-flex justify-content-center">
-                <button className="email-button" onClick={handleEmailClick}>
+                <button className="contact-buttons" onClick={handleEmailClick}>
                     Email
+                </button>
+                <button className="contact-buttons" onClick={handleResumeClick}>
+                    Resume
                 </button>
             </div>
         </div>

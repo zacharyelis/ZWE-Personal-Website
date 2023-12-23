@@ -22,7 +22,7 @@ export default function navbar() {
                     <a href="#contact" className="nav-text">Contact</a>
                 </li>
                 <li>
-                    <a href="#projects" className="nav-text">Resume</a>
+                    <a href="resume.pdf" target="_blank" className="nav-text">Resume</a>
                 </li>
             </ul>
         </div>
