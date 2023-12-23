@@ -13,8 +13,8 @@ export default function contact() {
     return (
         <div className="contact-area" id="contact">
             <div className="d-flex contact-header">Contact Me!</div>
-            <div className="d-flex contact-body">Whether you'd like to discuss work opportunities, collaboraltion on a project, or anything
-                else, feel free to reach out!</div>
+            <div className="d-flex contact-body">Whether you'd like to discuss work opportunities, collaboration on a project, or anything
+                else- feel free to reach out!</div>
             <div className="d-flex justify-content-center">
                 <button className="contact-buttons" onClick={handleEmailClick}>
                     Email
