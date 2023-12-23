@@ -17,7 +17,7 @@
     font-weight: 400;
     justify-content: center;
     color: aliceblue;
-    width: 500px;
+    max-width: 500px;
     margin: auto;
     text-align: center;
 }
@@ -32,4 +32,15 @@
     color: #5266c2;
     border: 2px solid #5266c2;
     border-radius: 5px;
+}
+
+@media screen and (max-width: 900px) {
+    .contact-header {
+        font-size: 35px;
+    }
+
+    .contact-body {
+        font-size: 25px;
+    }
+
 }
