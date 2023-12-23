@@ -7,7 +7,7 @@ export default function contact() {
     }
 
     const handleResumeClick = () => {
-        window.location.href = 'resume.pdf';
+        window.open('resume.pdf', '_blank');
     }
 
     return (
