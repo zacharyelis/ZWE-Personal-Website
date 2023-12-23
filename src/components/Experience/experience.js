@@ -53,11 +53,11 @@ export default function experience() {
                     <div className="experience-title">Georgia Tech- <span className="job-title">Teaching Assistant</span></div>
                     <div className="experience-date">December 2022 - Present</div>
                     <div className="experience-description">
-                        - Collaborated with 4 professors and 31 TAs to serve a course consisting of over 850 students
+                        - Collaborate with 4 professors and 31 TAs to serve a course consisting of over 850 students
                         <br></br>
-                        - Tutored students in computer science concepts, created and graded homework assignments and exams
+                        - Tutor students in computer science concepts, create and grade homework assignments and exams
                         <br></br>
-                        - Planned and led a weekly recitation of 50 students to foster a deeper understanding of the course
+                        - Plan and lead a weekly recitation of 50 students to foster a deeper understanding of the course
                     </div>
                 </div>
             </div>
