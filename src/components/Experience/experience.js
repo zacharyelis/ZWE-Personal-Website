@@ -51,7 +51,7 @@ export default function experience() {
                 </a>
                 <div className="experience-info">
                     <div className="experience-title">Georgia Tech- <span className="job-title">Teaching Assistant</span></div>
-                    <div className="experience-date">December 2022 - May 2023</div>
+                    <div className="experience-date">December 2022 - Present</div>
                     <div className="experience-description">
                         - Collaborated with 4 professors and 31 TAs to serve a course consisting of over 850 students
                         <br></br>
