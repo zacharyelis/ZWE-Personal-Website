@@ -39,7 +39,7 @@ export default function experience() {
                     <div className="experience-description">
                         - Helped develop and improve full stack website that utilizes Java Spring Boot, React.js, and AWS S3/EC2
                         <br></br>
-                        - Coordinated with UI/UX designers utilizing Figma to create friendly interfaces and intuitive interactions through the use of JavaScript. CSS, and HTML
+                        - Coordinated with UI/UX designers utilizing Figma to create friendly interfaces and intuitive interactions through the use of JavaScript, CSS, and HTML
                         <br></br>
                         - Troubleshot and debugged applications to optimize product performance
                     </div>
