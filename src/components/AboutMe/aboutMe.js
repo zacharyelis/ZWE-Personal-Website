@@ -27,7 +27,7 @@ export default function aboutMe() {
             />
           </div>
           <div className="d-flex about-me-body">
-            I'm Zachary Elis, a Georgia Tech student from Raleigh, North Carolina. I'm a junior CS major, 
+            I'm Zachary Elis, a Georgia Tech student from Raleigh, North Carolina. I'm a senior CS major, 
             and I'm currently on track to graduate in May of 2025. I've worked in industry at two different companies 
             as a software engineer and at GT's College of Computing as a teaching assistant.
             <br></br>
