@@ -51,7 +51,7 @@ export default function experience() {
                 </a>
                 <div className="experience-info">
                     <div className="experience-title">Georgia Tech- <span className="job-title">Teaching Assistant</span></div>
-                    <div className="experience-date">December 2022 - December 2023</div>
+                    <div className="experience-date">December 2022 - May 2022</div>
                     <div className="experience-description">
                         - Collaborated with 4 professors and 31 TAs to serve a course consisting of over 850 students
                         <br></br>
@@ -66,7 +66,7 @@ export default function experience() {
                 <img src = {FraternityLogo} className="experience-photo" alt="Fraternity Logo"/>
                 <div className="experience-info">
                     <div className="experience-title">Fraternity Executive Council- <span className="job-title">Chapter Marshal</span></div>
-                    <div className="experience-date">November 2021 - Present</div>
+                    <div className="experience-date">November 2021 - December 2023</div>
                     <div className="experience-description">
                     - Member of a 9-member council to manage a fraternity of over 85 active members
                     <br></br>

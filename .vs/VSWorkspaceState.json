@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\components",
-    "\\src\\components\\Projects"
+    "\\public",
+    "\\src"
   ],
+  "SelectedNode": "\\public\\resume.pdf",
   "PreviewInSolutionExplorer": false
 }
