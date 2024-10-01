@@ -15,7 +15,7 @@ export default function experience() {
                 </a>
                 <div className="experience-info">
                     <div className="experience-title">Georgia Tech Research Institute- <span className="job-title">Software Engineering Intern</span></div>
-                    <div className="experience-date">August 2023 - December 2023</div>
+                    <div className="experience-date">August 2023 - August 2024</div>
                     <div className="experience-description">
                         - Member of the Systems Development Division of GTRI's Aerospace, Transportation, and Advanced Systems Laboratory (ATAS)
                         <br></br>
@@ -51,7 +51,7 @@ export default function experience() {
                 </a>
                 <div className="experience-info">
                     <div className="experience-title">Georgia Tech- <span className="job-title">Teaching Assistant</span></div>
-                    <div className="experience-date">December 2022 - May 2022</div>
+                    <div className="experience-date">December 2022 - May 2023</div>
                     <div className="experience-description">
                         - Collaborated with 4 professors and 31 TAs to serve a course consisting of over 850 students
                         <br></br>
