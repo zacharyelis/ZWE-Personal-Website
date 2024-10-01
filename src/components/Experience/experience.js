@@ -57,7 +57,7 @@ export default function experience() {
                         <br></br>
                         - Tutored students in computer science concepts, created and graded homework assignments and exams
                         <br></br>
-                        - Planned and led a weekly recitation of 50 students to foster a deeper understanding of the course
+                        - Planned and led a weekly recitation of 45 students to foster a deeper understanding of the course
                     </div>
                 </div>
             </div>
