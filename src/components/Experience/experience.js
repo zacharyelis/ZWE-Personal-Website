@@ -70,9 +70,9 @@ export default function experience() {
                     <div className="experience-description">
                     - Member of a 9-member council to manage a fraternity of over 85 active members
                     <br></br>
-                    - Meet weekly to collaborate with the council in conducting the business of the chapter
+                    - Met weekly to collaborate with the council in conducting the business of the chapter
                     <br></br>
-                    - Coordinate and lead chapter special events on a monthly basis
+                    - Coordinated and led chapter special events on a monthly basis
                     </div>
                 </div>
             </div>
