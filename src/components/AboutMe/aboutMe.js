@@ -36,7 +36,7 @@ export default function aboutMe() {
             found my passion. I officially changed my major at the end of my freshman year, and have only 
             fallen more in love with the field since. After completing my undergrad, I plan to pursue a JD with a particular
             focus on issues pertaining to computer science and technology. My goal is to specialize in the intersection of law and computer science,
-            especially in areas such as machine learning and intellectual property. 
+            particularly in areas such as machine learning and intellectual property. 
             <br></br>
             <br></br>
             I made this website to showcase some of my work and interests; I hope you enjoy!
