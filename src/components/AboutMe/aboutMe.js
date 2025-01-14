@@ -34,9 +34,10 @@ export default function aboutMe() {
             <br></br>
             I started at Georgia Tech as a chemical engineer, but after a single MATLAB course, I knew I had 
             found my passion. I officially changed my major at the end of my freshman year, and have only 
-            fallen more in love with the field since. After completing my undergrad, I plan to pursue a JD with a particular
-            focus on issues pertaining to computer science and technology. My goal is to specialize in the intersection of law and computer science,
-            particularly in relation to topics such as machine learning, intellectual property, and regulatory policy.
+            fallen more in love with the field since. After completing my undergraduate degree, I plan to 
+            pursue a Juris Doctor (JD) with a specialized focus on legal issues related to computer science 
+            and technology. My goal is to build expertise at the intersection of law and computer science, 
+            with particular emphasis on areas such as machine learning and intellectual property.
             <br></br>
             <br></br>
             I made this website to showcase some of my work and interests; I hope you enjoy!
